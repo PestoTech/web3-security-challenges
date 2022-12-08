@@ -22,7 +22,7 @@ To use this repo you should have the following programmes installed in your mach
 ### Clone this repo, cd into it and install the dependencies by pasting the following code into your terminal:
 
 ```bash
-git clone https://github.com/PestoTech/web3-security-challenges.git && cd SC-Security-Challenges && yarn install
+git clone https://github.com/PestoTech/web3-security-challenges.git && cd web3-security-challenges && yarn install
 ```
 
 ### Start Solving the challenges
