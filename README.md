@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://global-uploads.webflow.com/6352882191c116656f736fe9/636729c95f717a6297ada7f7_logo.webp" width="300" title="Pesto" >
+</p>
+<br />
+
 # Pesto Smart Contract Security Challenge
 
 Time to get your hands dirty!
